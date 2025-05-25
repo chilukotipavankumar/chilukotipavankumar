@@ -2,4 +2,4 @@
 - 👀 I’m passionate about transforming complex data into impactful insights that fuel business decisions  
 - 🌱 Currently advancing my skills in predictive analytics, data visualization, and automation using Python, SQL, and Tableau  
 - 💞️ Looking to collaborate on data analytics, dashboard creation, and building efficient data pipelines  
-- 📫 Reach me at pavankumar.chilukoti14@gmail.com | [LinkedIn]([https://www.linkedin.com/in/chilukotipavankumar](https://www.linkedin.com/in/pavankumar-ch/)) | [GitHub](https://github.com/chilukotipavankumar)
+- 📫 Reach me at pavankumar.chilukoti14@gmail.com | [LinkedIn](https://www.linkedin.com/in/pavankumar-ch/) | [GitHub](https://github.com/chilukotipavankumar)
